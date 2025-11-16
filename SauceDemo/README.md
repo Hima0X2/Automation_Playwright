@@ -19,4 +19,17 @@ Before running this project, make sure you have:
 ```bash
 git clone https://github.com/Hima0X2/Automation_Playwright
 cd saucedemo
-
+```
+2. **Install dependencies**
+```bash
+npm install
+```
+3. **Install Playwright browsers**
+```bash
+npx playwright install
+```
+## Run Commands
+1. **Run all tests**
+```bash
+npx playwright test
+```
